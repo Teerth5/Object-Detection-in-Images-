@@ -1,6 +1,5 @@
 # Object-Detection-in-Images-
 
-I have Implemented Object Detection using 2 Techniques 
 
 1st Technique : Using Yolo v9 for object detecion on Custom dataset
 
